@@ -1,0 +1,25 @@
+{
+  "name": "dictionary-prototype",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kunal-mohta/dictionary-prototype.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kunal-mohta/dictionary-prototype/issues"
+  },
+  "homepage": "https://github.com/kunal-mohta/dictionary-prototype#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "html2plaintext": "^2.0.1",
+    "request": "^2.83.0"
+  }
+}
